@@ -1,0 +1,30 @@
+Our top candidates for this Scholarship are: 
+Name: Kathrine Johnson
+GPA: 4.0
+Major: CS
+
+Name: Alexey Kakabov
+GPA: 3.6
+Major: Business
+
+Name: Xavier Cato
+GPA: 3.5
+Major: CS
+
+---------------------
+Our middle candidates for this Scholarship are: 
+Name: Grace Maxeem
+GPA: 3.4
+Major: Psychology
+
+Name: Roy Clay
+GPA: 3.2
+Major: Biology
+
+---------------------
+Our ineligible candidates for this Scholarship are: 
+Name: Kimberly Bryant
+GPA: 3.0
+Major: Electrical Engineering
+
+---------------------

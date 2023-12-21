@@ -1,0 +1,19 @@
+Our most tenured and highest paying Professors are: 
+Name: Andrew Huberman
+Department: Neuroscience Salary: $120000.0
+Advisees
+Name: Kayla Wilson
+Department: CS Salary: $95000.0
+Advisees
+Name: Frank Black
+Department: Math Salary: $85000.0
+Advisees
+---------------------
+Our recently hired Professors are: 
+Name: Jack Black
+Department: ChemistrySalary: $82000.0
+Advisees
+Name: Mary Castro
+Department: CSSalary: $80000.0
+Advisees
+---------------------
