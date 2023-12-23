@@ -9,3 +9,166 @@ professor,Kayla,Wilson,301,CS,95000.0
 professor,Jack,Black,205,Chemistry,82000.0
 student,Alexey,Kakabov,905,Business,3.6,72
 professor,Andrew,Huberman,445,Neuroscience,120000.0
+student,David,Smith,906,History,3.8,88
+professor,Emily,Miller,302,Physics,90000.0
+student,Samantha,Williams,907,English,3.2,78
+professor,Michael,Harris,303,Political Science,92000.0
+student,Brandon,Jones,908,Chemical Engineering,3.7,92
+professor,Natalie,Clark,304,Environmental Science,88000.0
+student,Olivia,Turner,909,Marketing,3.5,85
+professor,Jason,White,305,Economics,94000.0
+student,Christopher,Nguyen,910,Computer Engineering,3.9,96
+professor,Lauren,Martin,306,Sociology,87000.0
+student,Ava,Anderson,911,Physics,3.6,90
+professor,Brian,Johnson,307,History,91000.0
+student,Ethan,Chen,912,Psychology,3.3,82
+professor,Emma,Richardson,308,Computer Science,98000.0
+student,Isabella,Garcia,913,Electrical Engineering,3.1,75
+professor,Christopher,Lee,309,Chemical Engineering,95000.0
+student,Nathan,Cooper,914,Biology,3.4,87
+professor,Sophia,Gomez,310,Business,90000.0
+student,Chloe,Martin,915,Mathematics,3.8,94
+professor,Matthew,Kim,311,Neuroscience,102000.0
+student,James,Miller,916,Chemistry,3.5,89
+professor,Amy,Wright,312,English,87000.0
+student,Emily,Nguyen,917,Computer Science,3.9,97
+professor,Daniel,Smith,313,Marketing,92000.0
+student,Joshua,Brown,918,Physics,3.2,80
+professor,Grace,Evans,314,Political Science,93000.0
+student,Hailey,Kim,919,Sociology,3.6,91
+professor,Ryan,Thomas,315,Electrical Engineering,96000.0
+student,Logan,Williams,920,Psychology,3.1,77
+professor,Lily,Wang,316,History,94000.0
+student,Aiden,Lopez,921,Chemical Engineering,3.7,93
+professor,Oliver,Jones,317,Business,89000.0
+student,Emma,Turner,922,Mathematics,3.8,95
+professor,Isaac,Hill,318,Computer Engineering,97000.0
+student,Andrew,Nguyen,923,Biology,3.3,84
+professor,Hannah,Morris,319,Neuroscience,100000.0
+student,Sophia,Garcia,924,Environmental Science,3.4,86
+professor,David,Kim,320,Chemistry,91000.0
+student,Nicholas,Smith,925,Economics,3.5,88
+professor,Kylie,Baker,321,Psychology,93000.0
+student,Abigail,Davis,926,Physics,3.9,98
+professor,Ethan,Lee,322,Mathematics,96000.0
+student,William,Johnson,927,Computer Science,3.6,92
+professor,Mia,Garcia,323,Electrical Engineering,99000.0
+student,Samantha,Nguyen,928,History,3.2,79
+professor,Jackie,Lewis,324,Sociology,92000.0
+student,Daniel,White,929,Political Science,3.7,94
+professor,Lucas,Cooper,325,Chemical Engineering,94000.0
+student,Victoria,Jackson,930,English,3.5,87
+professor,Sarah,Ward,326,Business,95000.0
+student,Natalie,Martin,931,Computer Engineering,3.8,96
+professor,John,Hall,327,Physics,97000.0
+student,Connor,Anderson,932,Neuroscience,3.4,88
+professor,Karen,Adams,328,Mathematics,99000.0
+student,Kayla,Clark,933,Chemistry,3.6,90
+professor,Paul,Scott,329,History,92000.0
+student,Christian,Gomez,934,Sociology,3.2,78
+professor,Tracy,Wilson,330,Environmental Science,91000.0
+student,Mia,Watson,935,Political Science,3.7,92
+professor,Mark,Roberts,331,English,95000.0
+student,Landon,Hernandez,936,Electrical Engineering,3.5,86
+professor,Linda,Brown,332,Business,93000.0
+student,Kylie,Lewis,937,Psychology,3.9,98
+professor,Benjamin,Young,333,Computer Science,99000.0
+student,Austin,Baker,938,Chemical Engineering,3.3,84
+professor,Julia,Rivera,334,Economics,96000.0
+student,Harper,Taylor,939,Physics,3.8,94
+professor,Keith,Harris,335,Marketing,92000.0
+student,Gabriel,Morris,940,Computer Engineering,3.6,91
+professor,Rebecca,King,336,Neuroscience,100000.0
+student,Leah,Turner,941,Sociology,3.1,77
+professor,Trevor,Harrison,337,History,95000.0
+student,Owen,Ward,942,Mathematics,3.5,89
+professor,Catherine,Bailey,338,Political Science,94000.0
+student,Maya,Lee,943,English,3.2,79
+professor,George,Evans,339,Chemistry,93000.0
+student,Brandon,Nguyen,944,Environmental Science,3.4,87
+professor,Marie,Wright,340,Computer Science,97000.0
+student,Julian,Cooper,945,Biology,3.7,93
+professor,Jake,Thomas,341,Psychology,91000.0
+student,Adriana,Hill,946,Electrical Engineering,3.6,92
+professor,Martin,Kim,342,Business,96000.0
+student,Jackson,Chen,947,Chemical Engineering,3.5,88
+professor,Ava,Barnes,343,Neuroscience,98000.0
+student,Aria,Smith,948,Physics,3.9,97
+professor,Bryce,Watson,344,Mathematics,94000.0
+student,Henry,Garcia,949,Computer Science,3.8,95
+professor,Laura,Johnson,345,Environmental Science,96000.0
+student,Autumn,Brown,950,History,3.3,82
+professor,Tony,Richardson,346,Sociology,93000.0
+student,Ella,Richardson,951,Political Science,3.6,90
+professor,Jordan,Lopez,347,English,94000.0
+student,Mason,Smith,952,Computer Engineering,3.2,81
+professor,Katie,Hernandez,348,Physics,92000.0
+student,Lily,Wilson,953,Chemistry,3.7,94
+professor,Nathan,Davis,349,Political Science,91000.0
+student,Aaron,Roberts,954,Psychology,3.5,87
+professor,Jessica,Taylor,350,Computer Science,96000.0
+student,Scarlett,Clark,955,Mathematics,3.8,96
+professor,Terry,Evans,351,History,98000.0
+student,Dylan,Wright,956,Business,3.4,85
+professor,Gloria,Nguyen,352,Neuroscience,99000.0
+student,Avery,Baker,957,Chemical Engineering,3.9,98
+professor,Timothy,Watson,353,Sociology,93000.0
+student,Peyton,Kim,958,Environmental Science,3.1,76
+professor,Caleb,Jackson,354,Chemistry,95000.0
+student,Zoe,Adams,959,Political Science,3.6,91
+professor,Kaitlyn,Brown,355,Physics,93000.0
+student,Gavin,Ward,960,Computer Science,3.5,89
+professor,Dean,Lewis,356,Mathematics,97000.0
+student,Sofia,Gomez,961,Electrical Engineering,3.7,93
+professor,Julian,Morris,357,Psychology,92000.0
+student,Jacob,Young,962,Biology,3.3,83
+professor,Rachel,Turner,358,Business,94000.0
+student,Madison,Hall,963,Neuroscience,3.8,95
+professor,Troy,Cooper,359,English,96000.0
+student,Colton,Thomas,964,Sociology,3.2,79
+professor,Karen,Wright,360,Political Science,91000.0
+student,Anna,Rivera,965,Chemical Engineering,3.5,88
+professor,Marcus,Chen,361,Computer Engineering,98000.0
+student,Jordan,Smith,966,Psychology,3.6,92
+professor,Samantha,Hill,362,Environmental Science,94000.0
+graduatestudent,Isaac,Jones,501,Physics,4.0,22
+graduatestudent,Sophie,Davis,502,Computer Science,3.8,25
+graduatestudent,Robert,Anderson,503,Electrical Engineering,3.9,20
+graduatestudent,Emily,Miller,504,Chemistry,3.7,18
+graduatestudent,Christopher,Clark,505,Mathematics,3.6,23
+graduatestudent,Amelia,Turner,506,Biology,3.8,19
+graduatestudent,Daniel,White,507,Psychology,3.9,24
+graduatestudent,Olivia,Kim,508,Neuroscience,3.7,21
+graduatestudent,Brandon,Smith,509,Computer Engineering,4.0,16
+graduatestudent,Ava,Lopez,510,Business,3.8,22
+graduatestudent,Jack,Nguyen,511,History,3.9,25
+graduatestudent,Emma,Chen,512,Sociology,3.7,20
+graduatestudent,Liam,Hill,513,Chemical Engineering,3.6,18
+graduatestudent,Ella,Baker,514,English,3.8,23
+graduatestudent,Nathan,Ward,515,Political Science,3.9,19
+graduatestudent,Grace,Gomez,516,Physics,3.7,24
+graduatestudent,Andrew,Morris,517,Computer Science,3.8,25
+graduatestudent,Avery,Anderson,518,Electrical Engineering,3.9,20
+graduatestudent,Lily,Jones,519,Chemistry,3.7,15
+graduatestudent,Michael,Smith,520,Mathematics,3.6,28
+graduatestudent,Olivia,Turner,521,Biology,3.8,27
+graduatestudent,James,White,522,Psychology,3.9,25
+graduatestudent,Emma,Clark,523,Neuroscience,3.7,18
+graduatestudent,William,Nguyen,524,Computer Engineering,4.0,17
+graduatestudent,Sophia,Davis,525,Business,3.8,20
+graduatestudent,Lucas,Anderson,526,History,3.9,24
+graduatestudent,Ava,Miller,527,Sociology,3.7,19
+graduatestudent,Liam,Kim,528,Chemical Engineering,3.6,16
+graduatestudent,Isabella,Turner,529,English,3.8,22
+graduatestudent,Matthew,Smith,530,Political Science,3.9,25
+graduatestudent,Chloe,Gomez,531,Physics,3.7,20
+graduatestudent,David,Morris,532,Computer Science,3.8,25
+graduatestudent,Sophie,Anderson,533,Electrical Engineering,3.9,18
+graduatestudent,Liam,White,534,Chemistry,3.7,23
+graduatestudent,Ella,Jones,535,Mathematics,3.6,21
+graduatestudent,Nathan,Turner,536,Biology,3.8,19
+graduatestudent,Ava,White,537,Psychology,3.9,24
+graduatestudent,James,Kim,538,Neuroscience,3.7,17
+graduatestudent,Emma,Smith,539,Computer Engineering,4.0,19
+graduatestudent,Liam,Davis,540,Business,3.8,16
+

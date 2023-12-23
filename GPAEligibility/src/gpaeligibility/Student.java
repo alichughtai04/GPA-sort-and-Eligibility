@@ -13,12 +13,14 @@ public class Student extends Person implements Comparable<Student> {
     private String major;
     private double gpa;
     private int credits;
+    private String studentType;
 
-    public Student(String firstName, String lastName, int id, String major, double gpa, int credits) {
+    public Student(String firstName, String lastName, int id, String major, double gpa, int credits, String studentType) {
         super(firstName, lastName, id);
         this.major = major;
         this.gpa = gpa;
         this.credits = credits;
+        this.studentType = studentType;
     }
 
     public String getMajor() {
@@ -45,21 +47,18 @@ public class Student extends Person implements Comparable<Student> {
         this.credits = credits;
     }
 
-    public void display() {
-        System.out.println("Name: " + this.getFirstName() + " " + this.getLastName());
-        System.out.println("ID: " + this.getId() + "\tMajor: " + this.major);
-        System.out.println("GPA: " + this.gpa + "\tCredits Applied: " + this.credits);
-    }
-
     @Override
     public String toString() {
-        return "Student - " + "Name: " + this.getFirstName() + " " + this.getLastName() + " | " + this.major + " " + this.gpa ;
+        return " - " + "Name: " + this.getFirstName() + " " + this.getLastName() + " | " + this.major + " | GPA: " + this.gpa + " | Credits earned: " + this.credits ;
+    }
+    public String getStudentType() {
+        return this.studentType;
     }
     
     @Override
     public int compareTo(Student o) {
         double oGPA = o.getGPA();
-        double sGPA = gpa;        
+        double sGPA = this.gpa;        
         if(sGPA < oGPA){
             return 1;
         }

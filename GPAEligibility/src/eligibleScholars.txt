@@ -1,30 +1,141 @@
 Our top candidates for this Scholarship are: 
-Name: Kathrine Johnson
-GPA: 4.0
-Major: CS
+---------------------
+ - Name: Kathrine Johnson | CS | GPA: 4.0 | Credits earned: 100
 
-Name: Alexey Kakabov
-GPA: 3.6
-Major: Business
+ - Name: Christopher Nguyen | Computer Engineering | GPA: 3.9 | Credits earned: 96
 
-Name: Xavier Cato
-GPA: 3.5
-Major: CS
+ - Name: Emily Nguyen | Computer Science | GPA: 3.9 | Credits earned: 97
+
+ - Name: Abigail Davis | Physics | GPA: 3.9 | Credits earned: 98
+
+ - Name: Kylie Lewis | Psychology | GPA: 3.9 | Credits earned: 98
+
+ - Name: Aria Smith | Physics | GPA: 3.9 | Credits earned: 97
+
+ - Name: Avery Baker | Chemical Engineering | GPA: 3.9 | Credits earned: 98
+
+ - Name: David Smith | History | GPA: 3.8 | Credits earned: 88
+
+ - Name: Chloe Martin | Mathematics | GPA: 3.8 | Credits earned: 94
+
+ - Name: Emma Turner | Mathematics | GPA: 3.8 | Credits earned: 95
+
+ - Name: Natalie Martin | Computer Engineering | GPA: 3.8 | Credits earned: 96
+
+ - Name: Harper Taylor | Physics | GPA: 3.8 | Credits earned: 94
+
+ - Name: Henry Garcia | Computer Science | GPA: 3.8 | Credits earned: 95
+
+ - Name: Scarlett Clark | Mathematics | GPA: 3.8 | Credits earned: 96
+
+ - Name: Madison Hall | Neuroscience | GPA: 3.8 | Credits earned: 95
+
+ - Name: Brandon Jones | Chemical Engineering | GPA: 3.7 | Credits earned: 92
+
+ - Name: Aiden Lopez | Chemical Engineering | GPA: 3.7 | Credits earned: 93
+
+ - Name: Daniel White | Political Science | GPA: 3.7 | Credits earned: 94
+
+ - Name: Mia Watson | Political Science | GPA: 3.7 | Credits earned: 92
+
+ - Name: Julian Cooper | Biology | GPA: 3.7 | Credits earned: 93
+
+ - Name: Lily Wilson | Chemistry | GPA: 3.7 | Credits earned: 94
+
+ - Name: Sofia Gomez | Electrical Engineering | GPA: 3.7 | Credits earned: 93
+
+ - Name: Alexey Kakabov | Business | GPA: 3.6 | Credits earned: 72
+
+ - Name: Ava Anderson | Physics | GPA: 3.6 | Credits earned: 90
+
+ - Name: Hailey Kim | Sociology | GPA: 3.6 | Credits earned: 91
+
+ - Name: William Johnson | Computer Science | GPA: 3.6 | Credits earned: 92
+
+ - Name: Kayla Clark | Chemistry | GPA: 3.6 | Credits earned: 90
+
+ - Name: Gabriel Morris | Computer Engineering | GPA: 3.6 | Credits earned: 91
+
+ - Name: Adriana Hill | Electrical Engineering | GPA: 3.6 | Credits earned: 92
+
+ - Name: Ella Richardson | Political Science | GPA: 3.6 | Credits earned: 90
+
+ - Name: Zoe Adams | Political Science | GPA: 3.6 | Credits earned: 91
+
+ - Name: Jordan Smith | Psychology | GPA: 3.6 | Credits earned: 92
+
+ - Name: Xavier Cato | CS | GPA: 3.5 | Credits earned: 75
+
+ - Name: Olivia Turner | Marketing | GPA: 3.5 | Credits earned: 85
+
+ - Name: James Miller | Chemistry | GPA: 3.5 | Credits earned: 89
+
+ - Name: Nicholas Smith | Economics | GPA: 3.5 | Credits earned: 88
+
+ - Name: Victoria Jackson | English | GPA: 3.5 | Credits earned: 87
+
+ - Name: Landon Hernandez | Electrical Engineering | GPA: 3.5 | Credits earned: 86
+
+ - Name: Owen Ward | Mathematics | GPA: 3.5 | Credits earned: 89
+
+ - Name: Jackson Chen | Chemical Engineering | GPA: 3.5 | Credits earned: 88
+
+ - Name: Aaron Roberts | Psychology | GPA: 3.5 | Credits earned: 87
+
+ - Name: Gavin Ward | Computer Science | GPA: 3.5 | Credits earned: 89
+
+ - Name: Anna Rivera | Chemical Engineering | GPA: 3.5 | Credits earned: 88
 
 ---------------------
 Our middle candidates for this Scholarship are: 
-Name: Grace Maxeem
-GPA: 3.4
-Major: Psychology
+ - Name: Grace Maxeem | Psychology | GPA: 3.4 | Credits earned: 95
 
-Name: Roy Clay
-GPA: 3.2
-Major: Biology
+ - Name: Nathan Cooper | Biology | GPA: 3.4 | Credits earned: 87
+
+ - Name: Sophia Garcia | Environmental Science | GPA: 3.4 | Credits earned: 86
+
+ - Name: Connor Anderson | Neuroscience | GPA: 3.4 | Credits earned: 88
+
+ - Name: Brandon Nguyen | Environmental Science | GPA: 3.4 | Credits earned: 87
+
+ - Name: Dylan Wright | Business | GPA: 3.4 | Credits earned: 85
+
+ - Name: Ethan Chen | Psychology | GPA: 3.3 | Credits earned: 82
+
+ - Name: Andrew Nguyen | Biology | GPA: 3.3 | Credits earned: 84
+
+ - Name: Austin Baker | Chemical Engineering | GPA: 3.3 | Credits earned: 84
+
+ - Name: Autumn Brown | History | GPA: 3.3 | Credits earned: 82
+
+ - Name: Jacob Young | Biology | GPA: 3.3 | Credits earned: 83
+
+ - Name: Roy Clay | Biology | GPA: 3.2 | Credits earned: 85
+
+ - Name: Samantha Williams | English | GPA: 3.2 | Credits earned: 78
+
+ - Name: Joshua Brown | Physics | GPA: 3.2 | Credits earned: 80
+
+ - Name: Samantha Nguyen | History | GPA: 3.2 | Credits earned: 79
+
+ - Name: Christian Gomez | Sociology | GPA: 3.2 | Credits earned: 78
+
+ - Name: Maya Lee | English | GPA: 3.2 | Credits earned: 79
+
+ - Name: Mason Smith | Computer Engineering | GPA: 3.2 | Credits earned: 81
+
+ - Name: Colton Thomas | Sociology | GPA: 3.2 | Credits earned: 79
 
 ---------------------
 Our ineligible candidates for this Scholarship are: 
-Name: Kimberly Bryant
-GPA: 3.0
-Major: Electrical Engineering
+ - Name: Isabella Garcia | Electrical Engineering | GPA: 3.1 | Credits earned: 75
+
+ - Name: Logan Williams | Psychology | GPA: 3.1 | Credits earned: 77
+
+ - Name: Leah Turner | Sociology | GPA: 3.1 | Credits earned: 77
+
+ - Name: Peyton Kim | Environmental Science | GPA: 3.1 | Credits earned: 76
+
+ - Name: Kimberly Bryant | Electrical Engineering | GPA: 3.0 | Credits earned: 80
 
 ---------------------

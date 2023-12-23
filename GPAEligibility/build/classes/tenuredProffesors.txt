@@ -1,19 +1,70 @@
 Our most tenured and highest paying Professors are: 
-Name: Andrew Huberman
-Department: Neuroscience Salary: $120000.0
-Advisees
-Name: Kayla Wilson
-Department: CS Salary: $95000.0
-Advisees
-Name: Frank Black
-Department: Math Salary: $85000.0
-Advisees
+Professor - Andrew Huberman ID: 445 | Neuroscience | Salary: $120000.0
+Professor - Matthew Kim ID: 311 | Neuroscience | Salary: $102000.0
+Professor - Hannah Morris ID: 319 | Neuroscience | Salary: $100000.0
+Professor - Rebecca King ID: 336 | Neuroscience | Salary: $100000.0
+Professor - Mia Garcia ID: 323 | Electrical Engineering | Salary: $99000.0
+Professor - Karen Adams ID: 328 | Mathematics | Salary: $99000.0
+Professor - Benjamin Young ID: 333 | Computer Science | Salary: $99000.0
+Professor - Gloria Nguyen ID: 352 | Neuroscience | Salary: $99000.0
+Professor - Emma Richardson ID: 308 | Computer Science | Salary: $98000.0
+Professor - Ava Barnes ID: 343 | Neuroscience | Salary: $98000.0
+Professor - Terry Evans ID: 351 | History | Salary: $98000.0
+Professor - Marcus Chen ID: 361 | Computer Engineering | Salary: $98000.0
+Professor - Isaac Hill ID: 318 | Computer Engineering | Salary: $97000.0
+Professor - John Hall ID: 327 | Physics | Salary: $97000.0
+Professor - Marie Wright ID: 340 | Computer Science | Salary: $97000.0
+Professor - Dean Lewis ID: 356 | Mathematics | Salary: $97000.0
+Professor - Ryan Thomas ID: 315 | Electrical Engineering | Salary: $96000.0
+Professor - Ethan Lee ID: 322 | Mathematics | Salary: $96000.0
+Professor - Julia Rivera ID: 334 | Economics | Salary: $96000.0
+Professor - Martin Kim ID: 342 | Business | Salary: $96000.0
+Professor - Laura Johnson ID: 345 | Environmental Science | Salary: $96000.0
+Professor - Jessica Taylor ID: 350 | Computer Science | Salary: $96000.0
+Professor - Troy Cooper ID: 359 | English | Salary: $96000.0
+Professor - Kayla Wilson ID: 301 | CS | Salary: $95000.0
+Professor - Christopher Lee ID: 309 | Chemical Engineering | Salary: $95000.0
+Professor - Sarah Ward ID: 326 | Business | Salary: $95000.0
+Professor - Mark Roberts ID: 331 | English | Salary: $95000.0
+Professor - Trevor Harrison ID: 337 | History | Salary: $95000.0
+Professor - Caleb Jackson ID: 354 | Chemistry | Salary: $95000.0
+Professor - Jason White ID: 305 | Economics | Salary: $94000.0
+Professor - Lily Wang ID: 316 | History | Salary: $94000.0
+Professor - Lucas Cooper ID: 325 | Chemical Engineering | Salary: $94000.0
+Professor - Catherine Bailey ID: 338 | Political Science | Salary: $94000.0
+Professor - Bryce Watson ID: 344 | Mathematics | Salary: $94000.0
+Professor - Jordan Lopez ID: 347 | English | Salary: $94000.0
+Professor - Rachel Turner ID: 358 | Business | Salary: $94000.0
+Professor - Samantha Hill ID: 362 | Environmental Science | Salary: $94000.0
+Professor - Grace Evans ID: 314 | Political Science | Salary: $93000.0
+Professor - Kylie Baker ID: 321 | Psychology | Salary: $93000.0
+Professor - Linda Brown ID: 332 | Business | Salary: $93000.0
+Professor - George Evans ID: 339 | Chemistry | Salary: $93000.0
+Professor - Tony Richardson ID: 346 | Sociology | Salary: $93000.0
+Professor - Timothy Watson ID: 353 | Sociology | Salary: $93000.0
+Professor - Kaitlyn Brown ID: 355 | Physics | Salary: $93000.0
+Professor - Michael Harris ID: 303 | Political Science | Salary: $92000.0
+Professor - Daniel Smith ID: 313 | Marketing | Salary: $92000.0
+Professor - Jackie Lewis ID: 324 | Sociology | Salary: $92000.0
+Professor - Paul Scott ID: 329 | History | Salary: $92000.0
+Professor - Keith Harris ID: 335 | Marketing | Salary: $92000.0
+Professor - Katie Hernandez ID: 348 | Physics | Salary: $92000.0
+Professor - Julian Morris ID: 357 | Psychology | Salary: $92000.0
+Professor - Brian Johnson ID: 307 | History | Salary: $91000.0
+Professor - David Kim ID: 320 | Chemistry | Salary: $91000.0
+Professor - Tracy Wilson ID: 330 | Environmental Science | Salary: $91000.0
+Professor - Jake Thomas ID: 341 | Psychology | Salary: $91000.0
+Professor - Nathan Davis ID: 349 | Political Science | Salary: $91000.0
+Professor - Karen Wright ID: 360 | Political Science | Salary: $91000.0
+Professor - Emily Miller ID: 302 | Physics | Salary: $90000.0
+Professor - Sophia Gomez ID: 310 | Business | Salary: $90000.0
+Professor - Oliver Jones ID: 317 | Business | Salary: $89000.0
+Professor - Natalie Clark ID: 304 | Environmental Science | Salary: $88000.0
+Professor - Lauren Martin ID: 306 | Sociology | Salary: $87000.0
+Professor - Amy Wright ID: 312 | English | Salary: $87000.0
+Professor - Frank Black ID: 801 | Math | Salary: $85000.0
 ---------------------
 Our recently hired Professors are: 
-Name: Jack Black
-Department: ChemistrySalary: $82000.0
-Advisees
-Name: Mary Castro
-Department: CSSalary: $80000.0
-Advisees
+Professor - Jack Black ID: 205 | Chemistry | Salary: $82000.0
+Professor - Mary Castro ID: 300 | CS | Salary: $80000.0
 ---------------------

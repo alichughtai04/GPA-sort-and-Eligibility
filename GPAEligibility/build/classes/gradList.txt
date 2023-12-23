@@ -1,0 +1,82 @@
+List of current respective graduate students: 
+
+graduatestudent - Name: Isaac Jones | Physics | GPA: 4.0 | Credits earned: 22
+
+graduatestudent - Name: Brandon Smith | Computer Engineering | GPA: 4.0 | Credits earned: 16
+
+graduatestudent - Name: William Nguyen | Computer Engineering | GPA: 4.0 | Credits earned: 17
+
+graduatestudent - Name: Emma Smith | Computer Engineering | GPA: 4.0 | Credits earned: 19
+
+graduatestudent - Name: Robert Anderson | Electrical Engineering | GPA: 3.9 | Credits earned: 20
+
+graduatestudent - Name: Daniel White | Psychology | GPA: 3.9 | Credits earned: 24
+
+graduatestudent - Name: Jack Nguyen | History | GPA: 3.9 | Credits earned: 25
+
+graduatestudent - Name: Nathan Ward | Political Science | GPA: 3.9 | Credits earned: 19
+
+graduatestudent - Name: Avery Anderson | Electrical Engineering | GPA: 3.9 | Credits earned: 20
+
+graduatestudent - Name: James White | Psychology | GPA: 3.9 | Credits earned: 25
+
+graduatestudent - Name: Lucas Anderson | History | GPA: 3.9 | Credits earned: 24
+
+graduatestudent - Name: Matthew Smith | Political Science | GPA: 3.9 | Credits earned: 25
+
+graduatestudent - Name: Sophie Anderson | Electrical Engineering | GPA: 3.9 | Credits earned: 18
+
+graduatestudent - Name: Ava White | Psychology | GPA: 3.9 | Credits earned: 24
+
+graduatestudent - Name: Sophie Davis | Computer Science | GPA: 3.8 | Credits earned: 25
+
+graduatestudent - Name: Amelia Turner | Biology | GPA: 3.8 | Credits earned: 19
+
+graduatestudent - Name: Ava Lopez | Business | GPA: 3.8 | Credits earned: 22
+
+graduatestudent - Name: Ella Baker | English | GPA: 3.8 | Credits earned: 23
+
+graduatestudent - Name: Andrew Morris | Computer Science | GPA: 3.8 | Credits earned: 25
+
+graduatestudent - Name: Olivia Turner | Biology | GPA: 3.8 | Credits earned: 27
+
+graduatestudent - Name: Sophia Davis | Business | GPA: 3.8 | Credits earned: 20
+
+graduatestudent - Name: Isabella Turner | English | GPA: 3.8 | Credits earned: 22
+
+graduatestudent - Name: David Morris | Computer Science | GPA: 3.8 | Credits earned: 25
+
+graduatestudent - Name: Nathan Turner | Biology | GPA: 3.8 | Credits earned: 19
+
+graduatestudent - Name: Liam Davis | Business | GPA: 3.8 | Credits earned: 16
+
+graduatestudent - Name: Emily Miller | Chemistry | GPA: 3.7 | Credits earned: 18
+
+graduatestudent - Name: Olivia Kim | Neuroscience | GPA: 3.7 | Credits earned: 21
+
+graduatestudent - Name: Emma Chen | Sociology | GPA: 3.7 | Credits earned: 20
+
+graduatestudent - Name: Grace Gomez | Physics | GPA: 3.7 | Credits earned: 24
+
+graduatestudent - Name: Lily Jones | Chemistry | GPA: 3.7 | Credits earned: 15
+
+graduatestudent - Name: Emma Clark | Neuroscience | GPA: 3.7 | Credits earned: 18
+
+graduatestudent - Name: Ava Miller | Sociology | GPA: 3.7 | Credits earned: 19
+
+graduatestudent - Name: Chloe Gomez | Physics | GPA: 3.7 | Credits earned: 20
+
+graduatestudent - Name: Liam White | Chemistry | GPA: 3.7 | Credits earned: 23
+
+graduatestudent - Name: James Kim | Neuroscience | GPA: 3.7 | Credits earned: 17
+
+graduatestudent - Name: Christopher Clark | Mathematics | GPA: 3.6 | Credits earned: 23
+
+graduatestudent - Name: Liam Hill | Chemical Engineering | GPA: 3.6 | Credits earned: 18
+
+graduatestudent - Name: Michael Smith | Mathematics | GPA: 3.6 | Credits earned: 28
+
+graduatestudent - Name: Liam Kim | Chemical Engineering | GPA: 3.6 | Credits earned: 16
+
+graduatestudent - Name: Ella Jones | Mathematics | GPA: 3.6 | Credits earned: 21
+
